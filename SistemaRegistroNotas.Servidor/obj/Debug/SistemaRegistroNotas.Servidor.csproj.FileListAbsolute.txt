@@ -1,0 +1,13 @@
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\bin\Debug\SistemaRegistroNotas.Servidor.exe.config
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\bin\Debug\SistemaRegistroNotas.Servidor.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\bin\Debug\SistemaRegistroNotas.Servidor.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.frmPrincipalServidor.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.Properties.Resources.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.csproj.GenerateResource.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.csproj.CoreCompileInputs.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.csprojAssemblyReference.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.frmAgregarAlumno.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.frmAgregarCurso.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\SistemaRegistroNotas.Servidor\obj\Debug\SistemaRegistroNotas.Servidor.frmAgregarCursosAlumno.resources

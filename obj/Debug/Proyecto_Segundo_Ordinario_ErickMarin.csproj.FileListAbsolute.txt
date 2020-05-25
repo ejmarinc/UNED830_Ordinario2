@@ -1,0 +1,14 @@
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\Proyecto_Segundo_Ordinario_ErickMarin.exe.config
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\Proyecto_Segundo_Ordinario_ErickMarin.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\Proyecto_Segundo_Ordinario_ErickMarin.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.csprojAssemblyReference.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.frmPrincipal.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.Properties.Resources.resources
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.csproj.GenerateResource.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.csproj.CoreCompileInputs.cache
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\SistemaRegistroNotas.Servidor.exe
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\SistemaRegistroNotas.Servidor.pdb
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\bin\Debug\SistemaRegistroNotas.Servidor.exe.config
+C:\Users\ejmar\Documents\UNED Erick\Programacion Avanzada\Proyecto_Segundo_Ordinario_ErickMarin\obj\Debug\Proyecto_Segundo_Ordinario_ErickMarin.csproj.CopyComplete
